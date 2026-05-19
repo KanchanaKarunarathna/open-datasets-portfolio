@@ -583,13 +583,13 @@ Kaggle Profile: https://www.kaggle.com/kanchana1990
 
 ## Quality Standards
 
-Every dataset follows a rigorous production pipeline:
+ Datasets follows a rigorous production pipeline:
 
-- 6-Sigma QC methodology across all releases
-- Full data dictionaries and schema documentation  
+- Datasets Produced in 2026 have been subjected to additional QA/QC Checks
+- Full descriptions, Provenance and high usability (9.4 or 10) 
 - PII redacted where applicable
 - Validated for completeness, consistency, and accuracy
-- Commercial-grade, released freely for public benefit
+- Many 2026 Datasets are Commercial-grade, released freely for public benefit
 
 ---
 
