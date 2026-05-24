@@ -28,8 +28,7 @@ around the world. Data that would typically sell for thousands of dollars is
 released openly here because data science should be accessible to everyone
 regardless of where they come from.
 
-All datasets are built to 6-Sigma quality standards with full documentation,
-data dictionaries, and QC validation.
+All datasets are built to high quality and feature engineerd practically with QC validation.
 
 Kaggle Profile: https://www.kaggle.com/kanchana1990
 
